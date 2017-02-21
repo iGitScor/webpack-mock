@@ -22,9 +22,14 @@ Call the apply method with the webpack mock
 myPluginInstance.apply(webpackMock);
 ```
 
+### Examples
+
+* [Filesystem plugin](https://github.com/iGitScor/webpack-filesystem-plugin/tree/master/test)
+* [Content replacer plugin](https://github.com/iGitScor/webpack-content-replacer-plugin/tree/master/test)
+
 ## Contributing
 
 All contributions are welcome.
 
-[license-badge]: https://img.shields.io/apm/l/webpack-mock.svg?style=flat-square
+[license-badge]: https://img.shields.io/npm/l/webpack-mock.svg?style=flat-square
 [license]: https://github.com/iGitScor/webpack-mock/blob/master/LICENSE
