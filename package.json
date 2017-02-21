@@ -1,0 +1,29 @@
+{
+  "name": "webpack-mock",
+  "version": "0.1.0",
+  "description": "A mock for unit testing webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGitScor/webpack-mock.git"
+  },
+  "keywords": [
+    "webpack",
+    "mock",
+    "unit test",
+    "test",
+    "tests"
+  ],
+  "author": "iGitScor <sebastien.correaud@gmail.com> (http://iscor.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iGitScor/webpack-mock/issues"
+  },
+  "homepage": "https://github.com/iGitScor/webpack-mock#readme",
+  "files": [
+    "index.js"
+  ]
+}
